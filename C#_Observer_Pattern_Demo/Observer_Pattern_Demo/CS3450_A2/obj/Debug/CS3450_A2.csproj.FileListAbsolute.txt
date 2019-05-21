@@ -1,0 +1,14 @@
+H:\Users\Nathaniel\Documents\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\bin\Debug\CS3450_A2.exe.config
+H:\Users\Nathaniel\Documents\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\bin\Debug\CS3450_A2.exe
+H:\Users\Nathaniel\Documents\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\bin\Debug\CS3450_A2.pdb
+H:\Users\Nathaniel\Documents\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.csprojAssemblyReference.cache
+H:\Users\Nathaniel\Documents\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.csproj.CoreCompileInputs.cache
+H:\Users\Nathaniel\Documents\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.exe
+H:\Users\Nathaniel\Documents\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.pdb
+D:\Needed\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\bin\Debug\CS3450_A2.exe.config
+D:\Needed\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\bin\Debug\CS3450_A2.exe
+D:\Needed\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\bin\Debug\CS3450_A2.pdb
+D:\Needed\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.csprojAssemblyReference.cache
+D:\Needed\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.csproj.CoreCompileInputs.cache
+D:\Needed\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.exe
+D:\Needed\School\CS-3450-002 Principles and Patterns of Software Design\Assignments\Program 2\CS3450_Assignment02_NDA_v.2\CS3450_Proj02_NDA\CS3450_A2\obj\Debug\CS3450_A2.pdb
